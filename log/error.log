@@ -1,0 +1,113 @@
+2019-06-28T07:49:28.687Z error: ER_NO_SUCH_TABLE: Table 'research.t_user11' doesn't exist
+2019-06-28T07:51:28.690Z error: ER_NO_SUCH_TABLE: Table 'research.t_user11' doesn't exist
+2019-06-28T07:58:45.623Z error: ER_NO_SUCH_TABLE: Table 'research.t_user11' doesn't exist
+2019-06-28T08:00:22.317Z error: ER_NO_SUCH_TABLE: Table 'research.t_user11' doesn't exist
+2019-06-28T08:01:25.407Z error: ER_NO_SUCH_TABLE: Table 'research.t_user11' doesn't exist
+2019-06-28T08:02:53.168Z error: ER_NO_SUCH_TABLE: Table 'research.t_user11' doesn't exist
+2019-06-28T08:04:02.803Z error: ER_NO_SUCH_TABLE: Table 'research.t_user11' doesn't exist
+2019-06-28T08:04:28.544Z error: ER_NO_SUCH_TABLE: Table 'research.t_user11' doesn't exist
+2019-06-28T08:05:09.596Z error: ER_NO_SUCH_TABLE: Table 'research.t_user11' doesn't exist
+2019-06-28T08:25:35.710Z error: ER_NO_SUCH_TABLE: Table 'research.t_user11' doesn't exist
+2019-06-28T08:26:41.393Z error: ER_NO_SUCH_TABLE: Table 'research.t_user11' doesn't exist
+2019-06-28T08:27:53.913Z error: ER_NO_SUCH_TABLE: Table 'research.t_user11' doesn't exist
+2019-06-28T08:30:13.123Z error: ER_NO_SUCH_TABLE: Table 'research.t_user11' doesn't exist
+2019-06-28T08:30:16.378Z error: ER_NO_SUCH_TABLE: Table 'research.t_user11' doesn't exist
+2019-06-28T08:30:17.217Z error: ER_NO_SUCH_TABLE: Table 'research.t_user11' doesn't exist
+2019-06-28T08:30:17.948Z error: ER_NO_SUCH_TABLE: Table 'research.t_user11' doesn't exist
+2019-06-28T08:31:20.529Z error: ER_NO_SUCH_TABLE: Table 'research.t_user11' doesn't exist
+2019-06-28T08:32:09.410Z error: ER_NO_SUCH_TABLE: Table 'research.t_user11' doesn't exist
+2019-06-28T08:33:56.031Z error: ER_NO_SUCH_TABLE: Table 'research.t_user11' doesn't exist
+2019-06-28T09:11:36.305Z error: ER_NO_SUCH_TABLE: Table 'research.t_user11' doesn't exist
+2019-06-28T09:11:37.694Z error: ER_NO_SUCH_TABLE: Table 'research.t_user11' doesn't exist
+2019-06-28T09:11:38.354Z error: ER_NO_SUCH_TABLE: Table 'research.t_user11' doesn't exist
+2019-06-28T09:19:27.953Z error: ER_NO_SUCH_TABLE: Table 'research.t_user1' doesn't exist
+2019-06-28T09:35:22.547Z error: ER_NO_SUCH_TABLE: Table 'research.t_user1' doesn't exist
+2019-08-13T07:25:47.694Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc,address,password) VALUES(NULL,NULL,NULL,NULL,NULL,NULL)' at line 1
+2019-08-13T07:31:26.515Z error: ER_BAD_NULL_ERROR: Column 'name' cannot be null
+2019-08-13T07:32:36.320Z error: ER_BAD_NULL_ERROR: Column 'name' cannot be null
+2019-08-13T07:35:15.494Z error: ER_BAD_NULL_ERROR: Column 'name' cannot be null
+2019-08-13T07:35:53.110Z error: ER_BAD_NULL_ERROR: Column 'name' cannot be null
+2019-08-13T07:40:23.585Z error: ER_BAD_NULL_ERROR: Column 'name' cannot be null
+2019-08-13T07:41:12.103Z error: ER_BAD_NULL_ERROR: Column 'name' cannot be null
+2019-08-13T07:41:15.575Z error: ER_BAD_NULL_ERROR: Column 'name' cannot be null
+2019-08-13T08:02:57.918Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''1', ?' at line 1
+2019-08-13T08:03:41.121Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''1', ?' at line 1
+2019-08-13T08:03:42.380Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''1', ?' at line 1
+2019-09-06T08:37:07.541Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? GROUP BY type,dateTime' at line 1
+2019-09-06T08:37:53.681Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? GROUP BY type,dateTime' at line 1
+2019-09-06T08:39:24.670Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? GROUP BY type,dateTime' at line 1
+2019-09-06T08:39:26.067Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? GROUP BY type,dateTime' at line 1
+2019-09-06T08:39:27.789Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? GROUP BY type,dateTime' at line 1
+2019-09-06T08:39:34.964Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? GROUP BY type,dateTime' at line 1
+2019-09-06T08:39:36.484Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? GROUP BY type,dateTime' at line 1
+2019-09-08T03:26:26.907Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''function values() { [native code] }'' at line 1
+2019-09-08T03:27:20.520Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''function values() { [native code] }'' at line 1
+2019-09-08T03:27:37.048Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''function values() { [native code] }'' at line 1
+2019-09-08T05:04:44.933Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''function values() { [native code] }'' at line 1
+2019-09-08T05:06:12.738Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''function values() { [native code] }'' at line 1
+2019-09-08T05:06:49.016Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''[object Object]'' at line 1
+2019-09-08T05:07:38.975Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`item` = '123', `amount` = 1123, `desc` = '', `dateTime` = '2019-9-7', `type` = ' at line 1
+2019-09-08T05:08:31.986Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`item` = '123', `amount` = 11, `desc` = '', `dateTime` = '2019-9-7', `type` = '0' at line 1
+2019-09-08T05:09:39.040Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`item` = '123', `amount` = 11, `desc` = '', `dateTime` = '2019-9-7', `type` = '0' at line 1
+2019-09-08T05:56:15.287Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`item` = '123', `amount` = 11, `desc` = '', `dateTime` = '2019-9-7', `type` = '0' at line 1
+2019-09-08T05:56:57.267Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`item` = '123', `amount` = 11, `desc` = '', `dateTime` = '2019-9-7', `type` = '0' at line 1
+2019-09-08T05:57:08.177Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`item` = '123', `amount` = 11, `desc` = '111', `dateTime` = '2019-9-7', `type` =' at line 1
+2019-09-08T05:58:57.434Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`item` = '123', `amount` = 11, `desc` = '111', `dateTime` = '2019-9-7', `type` =' at line 1
+2019-09-08T05:59:32.457Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`item` = '123', `amount` = 1, `desc` = '123', `dateTime` = '2019-9-7', `type` = ' at line 1
+2019-09-08T06:02:16.750Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`item` = '13123', `amount` = 11, `desc` = '123', `dateTime` = '2019-9-7', `type`' at line 1
+2019-09-08T06:05:13.979Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`item` = '13123', `amount` = 11, `desc` = '123', `dateTime` = '2019-9-7', `type`' at line 1
+2019-09-08T06:07:05.598Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`item` = '123', `amount` = 21, `desc` = '123', `dateTime` = '2019-9-07', `type` ' at line 1
+2019-09-08T06:07:33.223Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`item` = '123', `amount` = 11, `desc` = '123', `dateTime` = '2019-9-07', `type` ' at line 1
+2019-09-08T06:08:46.340Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`item` = '123', `amount` = 12, `desc` = '123', `dateTime` = '2019-09-07', `type`' at line 1
+2019-09-08T06:54:43.208Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''[object Object]'' at line 1
+2019-09-08T06:54:48.995Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''[object Object]'' at line 1
+2019-09-08T06:55:23.234Z error: ER_TRUNCATED_WRONG_VALUE: Incorrect date value: '' for column 'dateTime' at row 1
+2019-09-10T14:45:59.320Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%''% order by createTime desc limit 0, 10' at line 1
+2019-09-10T14:46:02.476Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%''% order by createTime desc limit 0, 10' at line 1
+2019-09-10T14:46:09.890Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%''% order by createTime desc limit 0, 10' at line 1
+2019-09-10T14:53:32.507Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%''% order by createTime desc limit 0, 10' at line 1
+2019-09-11T02:43:13.642Z error: ER_BAD_FIELD_ERROR: Unknown column 'sex' in 'field list'
+2019-09-11T02:44:39.430Z error: ER_BAD_NULL_ERROR: Column 'name' cannot be null
+2019-09-11T02:45:37.930Z error: ER_NO_DEFAULT_FOR_FIELD: Field 'createTime' doesn't have a default value
+2019-09-11T02:51:22.954Z error: ER_BAD_NULL_ERROR: Column 'createTime' cannot be null
+2019-09-11T02:57:57.948Z error: ER_BAD_NULL_ERROR: Column 'createTime' cannot be null
+2019-09-11T02:58:46.521Z error: ER_BAD_NULL_ERROR: Column 'createTime' cannot be null
+2019-09-11T03:01:15.369Z error: ER_BAD_NULL_ERROR: Column 'createTime' cannot be null
+2019-09-11T03:35:24.609Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INSERT INTO `car`(`carNo`,`carColor`,`carBrand`,`userId`) VALUES '525NK', '白' at line 1
+2019-09-11T03:36:43.864Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INSERT INTO `car`(`carNo`,`carColor`,`carBrand`,`userId`) VALUES ('525NK', '白' at line 1
+2019-09-11T03:39:06.444Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INSERT INTO `car`(`carNo`,`carColor`,`carBrand`,`userId`) VALUES ('525NK', '白' at line 1
+2019-09-11T03:40:46.542Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INSERT INTO `car`(`carNo`,`carColor`,`carBrand`,`userId`) VALUES ('525NK', '白' at line 1
+2019-09-12T15:08:09.747Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc='备注500000' WHERE id=1' at line 1
+2019-09-12T15:10:05.060Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'desc='备注asdfasf' WHERE id=1' at line 1
+2019-09-12T15:31:15.256Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-09-16T13:44:07.626Z error: ER_BAD_NULL_ERROR: Column 'type' cannot be null
+2019-09-16T13:45:16.833Z error: ER_NO_DEFAULT_FOR_FIELD: Field 'accessories
+
+Accessories name
+
+Accessories name
+
+accessoriesName' doesn't have a default value
+2019-09-16T13:45:47.654Z error: ER_NO_DEFAULT_FOR_FIELD: Field 'accessories
+
+Accessories name
+
+Accessories name
+
+accessoriesName' doesn't have a default value
+2019-09-16T14:13:16.282Z error: ER_BAD_FIELD_ERROR: Unknown column 'accessories' in 'field list'
+2019-09-16T14:18:07.285Z error: ER_BAD_FIELD_ERROR: Unknown column 'accessories' in 'field list'
+2019-09-16T14:18:33.336Z error: ER_BAD_FIELD_ERROR: Unknown column 'accessories' in 'field list'
+2019-09-22T02:01:45.839Z error: ER_BAD_NULL_ERROR: Column 'amount' cannot be null
+2019-09-22T03:51:54.232Z error: ER_EMPTY_QUERY: Query was empty
+2019-09-22T03:52:02.129Z error: ER_EMPTY_QUERY: Query was empty
+2019-09-22T03:52:15.851Z error: ER_EMPTY_QUERY: Query was empty
+2019-09-22T03:54:54.406Z error: ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+2019-09-22T03:55:49.749Z error: ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+2019-09-22T03:58:10.818Z error: ER_BAD_NULL_ERROR: Column 'amount' cannot be null
+2019-09-22T04:00:22.023Z error: ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+2019-09-22T04:02:00.219Z error: ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+2019-09-22T04:03:41.897Z error: ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 3
+2019-09-22T04:24:09.978Z error: ER_TRUNCATED_WRONG_VALUE: Incorrect date value: '2019-09-22T04:24:05.343Z' for column 'dateTime' at row 1
+2019-12-30T02:48:27.546Z error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+2019-12-30T02:55:25.788Z error: ER_BAD_FIELD_ERROR: Unknown column 'uid' in 'where clause'
